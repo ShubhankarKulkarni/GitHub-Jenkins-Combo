@@ -12,3 +12,5 @@ Test 3:
   Adding Build status from Jenkins back to GitHub using embeded status badges
   
   [![Build Status](https://skulkarni211194-gt200n45q266m26c.socketxp.com/buildStatus/icon?job=Essential_Jenkins_02%2FGit_Pipeline_Script_Integration)](https://skulkarni211194-gt200n45q266m26c.socketxp.com/job/Essential_Jenkins_02/job/Git_Pipeline_Script_Integration/)
+  
+This somehow doesn't work cause of my shortcut URL. The plugin takes the local URL from the Jenkins server and not from the browser. This makes it show not started all the time even though the build is passing. Btw... this is also a test for a web hook for this branch only.
